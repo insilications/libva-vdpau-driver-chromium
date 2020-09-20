@@ -1,0 +1,14 @@
+# This file contains additional build requirements that did not get
+# picked up automatically. One name per line, no whitespace.
+libvdpau-dev
+mesa
+mesa-dev
+mesa-lib
+xorg-server
+xorg-server-dev
+libva
+libva-dev
+libva-lib
+nvidia
+nvidia-dev
+nvidia-lib
