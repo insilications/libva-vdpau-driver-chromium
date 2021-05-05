@@ -9,6 +9,6 @@ xorg-server-dev
 libva
 libva-dev
 libva-lib
-nvidia
-nvidia-dev
-nvidia-lib
+#nvidia
+#nvidia-dev
+#nvidia-lib
