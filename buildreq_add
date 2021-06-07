@@ -18,7 +18,6 @@ libX11-lib
 libXau-dev
 libXau-lib
 libva-intel-driver
-libva-intel-driver-dev
 libxcb-dev
 libxcb-lib
 libXcursor-dev
