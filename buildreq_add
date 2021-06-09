@@ -9,6 +9,7 @@ glibc-dev32
 glibc-libc32
 libva
 libva-dev
+libva-intel-driver
 libva-lib
 libvdpau
 libvdpau-dev
@@ -17,7 +18,6 @@ libX11-dev
 libX11-lib
 libXau-dev
 libXau-lib
-libva-intel-driver
 libxcb-dev
 libxcb-lib
 libXcursor-dev
@@ -53,6 +53,7 @@ mesa
 mesa-dev
 mesa-lib
 ninja
+pkg-config
 sed
 wayland
 wayland-dev
@@ -123,4 +124,3 @@ zlib-dev
 zlib-staticdev
 zstd-dev
 zstd-staticdev
-pkgconfig
